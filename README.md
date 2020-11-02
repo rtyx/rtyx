@@ -6,20 +6,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="rtyx's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rtyx&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="rtyx's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rtyx&show_icons=true&hide_border=true" />
 
 [website]: https://www.rtyx.es/
 [instagram]: https://www.instagram.com/rty_x/
