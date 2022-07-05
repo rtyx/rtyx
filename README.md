@@ -1,5 +1,3 @@
-[![Website](https://img.shields.io/website?label=rtyx.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tech.rtyx.es/)
-
 - 👋 Hi, I’m @rtyx aka Rafa
 - 👀 I’m interested in dogs
 - 🌱 I’m currently learning schyzerdütsch
